@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.app.superpos.login.LoginActivity;
+import com.yuvraj.androidprogramming.login.LoginActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
